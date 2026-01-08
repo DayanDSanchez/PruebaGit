@@ -12,5 +12,19 @@ namespace BL
         {
 
         }
+        public static void GetById()
+        {
+
+        }
+
+        public static void Add()
+        {
+
+        }
+
+        public static void Update()
+        {
+
+        }
     }
 }
