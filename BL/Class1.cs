@@ -27,5 +27,9 @@ namespace BL
         {
 
         }
+        public static void Update2()
+        {
+
+        }
     }
 }
